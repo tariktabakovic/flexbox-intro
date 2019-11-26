@@ -8,6 +8,8 @@ div {
 
 .parent {
     border-color: seagreen;
+    display: flex;
+    justify-content: flex-end;
 }
 
 .child {
